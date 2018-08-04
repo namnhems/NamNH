@@ -1,0 +1,24 @@
+E1
+E2
+Chuyen thu
+Cod
+Chuyen_hoan
+E1_shipchung
+
+-----------------------------------------------
+use ems_enterprise
+go
+insert into chuc_nang values('GD12','CDS','giao dich');
+go
+
+---------------------------------------------
+proc tinh cuoc cod new
+ them bang bccp_districs
+----------------------------------------
+loi vs2nt
+store tham so tinh cuoc lay theo ma dich vu ma kh
+store cuoc e1 dvdb rieng kh
+
+---------------------------------------
+table DM_HSCODE
+khong co danh muc mo ta trong luoi ben frm QT
